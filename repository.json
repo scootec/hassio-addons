@@ -1,6 +1,6 @@
 
 {
     "name": "Deconz HomeAssistant Add-on",
-    "url": "https://github.com/scootec/hassio-addons/tree/master/deconz",
+    "url": "https://github.com/scootec/hassio-addons",
     "maintainer": "scoootec <example@example.com>"
 }
